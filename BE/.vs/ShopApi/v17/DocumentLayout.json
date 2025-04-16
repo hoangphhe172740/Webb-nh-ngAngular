@@ -1,0 +1,353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\dao load\\Angular-Shop-main\\BE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|E:\\dao load\\Angular-Shop-main\\BE\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|E:\\dao load\\Angular-Shop-main\\BE\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|e:\\dao load\\angular-shop-main\\be\\models\\itemdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|solutionrelative:models\\itemdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|E:\\dao load\\Angular-Shop-main\\BE\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|solutionrelative:models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|E:\\dao load\\Angular-Shop-main\\BE\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|solutionrelative:controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|E:\\dao load\\Angular-Shop-main\\BE\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|E:\\dao load\\Angular-Shop-main\\BE\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|solutionrelative:models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|E:\\dao load\\Angular-Shop-main\\BE\\controllers\\allcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|solutionrelative:controllers\\allcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|E:\\dao load\\Angular-Shop-main\\BE\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|E:\\dao load\\Angular-Shop-main\\BE\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|solutionrelative:models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|E:\\dao load\\Angular-Shop-main\\BE\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|E:\\dao load\\Angular-Shop-main\\BE\\helper\\unity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|solutionrelative:helper\\unity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|E:\\dao load\\Angular-Shop-main\\BE\\helper\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|solutionrelative:helper\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|E:\\dao load\\Angular-Shop-main\\BE\\helper\\configurationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|solutionrelative:helper\\configurationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|E:\\dao load\\Angular-Shop-main\\BE\\services\\impl\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|solutionrelative:services\\impl\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|E:\\dao load\\Angular-Shop-main\\BE\\services\\impl\\allservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|solutionrelative:services\\impl\\allservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|E:\\dao load\\Angular-Shop-main\\BE\\services\\iallservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|solutionrelative:services\\iallservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|E:\\dao load\\Angular-Shop-main\\BE\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "E:\\dao load\\Angular-Shop-main\\BE\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BaseController.cs",
+              "ToolTip": "E:\\dao load\\Angular-Shop-main\\BE\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:26:48.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "E:\\dao load\\Angular-Shop-main\\BE\\Helper\\UserLogin.cs",
+              "RelativeDocumentMoniker": "Helper\\UserLogin.cs",
+              "ToolTip": "E:\\dao load\\Angular-Shop-main\\BE\\Helper\\UserLogin.cs",
+              "RelativeToolTip": "Helper\\UserLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T02:20:13.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Unity.cs",
+              "DocumentMoniker": "E:\\dao load\\Angular-Shop-main\\BE\\Helper\\Unity.cs",
+              "RelativeDocumentMoniker": "Helper\\Unity.cs",
+              "ToolTip": "E:\\dao load\\Angular-Shop-main\\BE\\Helper\\Unity.cs",
+              "RelativeToolTip": "Helper\\Unity.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwEQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:39:17.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "E:\\dao load\\Angular-Shop-main\\BE\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Cart.cs",
+              "ToolTip": "E:\\dao load\\Angular-Shop-main\\BE\\Models\\Cart.cs",
+              "RelativeToolTip": "Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T04:03:15.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "E:\\dao load\\Angular-Shop-main\\BE\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Models\\Item.cs",
+              "ToolTip": "E:\\dao load\\Angular-Shop-main\\BE\\Models\\Item.cs",
+              "RelativeToolTip": "Models\\Item.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:53:46.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\dao load\\Angular-Shop-main\\BE\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "E:\\dao load\\Angular-Shop-main\\BE\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:53:58.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\dao load\\Angular-Shop-main\\BE\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "E:\\dao load\\Angular-Shop-main\\BE\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:29:22.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\dao load\\Angular-Shop-main\\BE\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\dao load\\Angular-Shop-main\\BE\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T06:13:01.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AllController.cs",
+              "DocumentMoniker": "E:\\dao load\\Angular-Shop-main\\BE\\Controllers\\AllController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AllController.cs",
+              "ToolTip": "E:\\dao load\\Angular-Shop-main\\BE\\Controllers\\AllController.cs",
+              "RelativeToolTip": "Controllers\\AllController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA9wEUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:06:43.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dao load\\Angular-Shop-main\\BE\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\dao load\\Angular-Shop-main\\BE\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAF4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T06:12:54.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Itemdetail.cs",
+              "DocumentMoniker": "E:\\dao load\\Angular-Shop-main\\BE\\Models\\Itemdetail.cs",
+              "RelativeDocumentMoniker": "Models\\Itemdetail.cs",
+              "ToolTip": "E:\\dao load\\Angular-Shop-main\\BE\\Models\\Itemdetail.cs",
+              "RelativeToolTip": "Models\\Itemdetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:53:51.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Orderdetail.cs",
+              "DocumentMoniker": "E:\\dao load\\Angular-Shop-main\\BE\\Models\\Orderdetail.cs",
+              "RelativeDocumentMoniker": "Models\\Orderdetail.cs",
+              "ToolTip": "E:\\dao load\\Angular-Shop-main\\BE\\Models\\Orderdetail.cs",
+              "RelativeToolTip": "Models\\Orderdetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:29:37.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cartitem.cs",
+              "DocumentMoniker": "E:\\dao load\\Angular-Shop-main\\BE\\Models\\Cartitem.cs",
+              "RelativeDocumentMoniker": "Models\\Cartitem.cs",
+              "ToolTip": "E:\\dao load\\Angular-Shop-main\\BE\\Models\\Cartitem.cs",
+              "RelativeToolTip": "Models\\Cartitem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:53:44.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConfigurationHelper.cs",
+              "DocumentMoniker": "E:\\dao load\\Angular-Shop-main\\BE\\Helper\\ConfigurationHelper.cs",
+              "RelativeDocumentMoniker": "Helper\\ConfigurationHelper.cs",
+              "ToolTip": "E:\\dao load\\Angular-Shop-main\\BE\\Helper\\ConfigurationHelper.cs",
+              "RelativeToolTip": "Helper\\ConfigurationHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:27:16.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\dao load\\Angular-Shop-main\\BE\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "E:\\dao load\\Angular-Shop-main\\BE\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:55:29.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "E:\\dao load\\Angular-Shop-main\\BE\\Services\\Impl\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "Services\\Impl\\AuthenticationService.cs",
+              "ToolTip": "E:\\dao load\\Angular-Shop-main\\BE\\Services\\Impl\\AuthenticationService.cs",
+              "RelativeToolTip": "Services\\Impl\\AuthenticationService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwCEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T02:17:47.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAllServices.cs",
+              "DocumentMoniker": "E:\\dao load\\Angular-Shop-main\\BE\\Services\\IAllServices.cs",
+              "RelativeDocumentMoniker": "Services\\IAllServices.cs",
+              "ToolTip": "E:\\dao load\\Angular-Shop-main\\BE\\Services\\IAllServices.cs",
+              "RelativeToolTip": "Services\\IAllServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:03:49.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AllServices.cs",
+              "DocumentMoniker": "E:\\dao load\\Angular-Shop-main\\BE\\Services\\Impl\\AllServices.cs",
+              "RelativeDocumentMoniker": "Services\\Impl\\AllServices.cs",
+              "ToolTip": "E:\\dao load\\Angular-Shop-main\\BE\\Services\\Impl\\AllServices.cs",
+              "RelativeToolTip": "Services\\Impl\\AllServices.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAUwEcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:04:41.879Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 51,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+
+<app-topstrip></app-topstrip>
+<mat-sidenav-container class="mainWrapper orange_theme light-theme" autosize autoFocus dir="ltr">
+  <!-- ============================================================== -->
+  <!-- Vertical Sidebar -->
+  <!-- ============================================================== -->
+  <mat-sidenav #leftsidenav [mode]="!isAdmin ? 'over' : 'side'" [opened]="isAdmin"
+    (openedChange)="onSidenavOpenedChange($event)" (closedStart)="onSidenavClosedStart()" class="sidebarNav">
+    <div class="flex-layout">
+      <app-sidebar (toggleMobileNav)="sidenav.toggle()" [showToggle]="isOver"></app-sidebar>
+      <ng-scrollbar class="position-relative" style="height: 100%">
+        <mat-nav-list class="sidebar-list">
+          @for(item of navItems; track item) {
+          <app-nav-item [item]="item" (notify)="sidenav.toggle()">
+          </app-nav-item>
+          }
+        </mat-nav-list>
+      </ng-scrollbar>
+      <div class="p-24">
+        <!-- <div class="bg-light-secondary d-flex align-items-center gap-4 rounded p-20 m-t-20">
+          <div>
+            <h5 class="f-s-16 f-w-600 m-b-8">
+              Check Pro <br> Version
+            </h5>
+            <a mat-flat-button
+              href="https://www.wrappixel.com/templates/flexy-material-angular-admin/?ref=353" target="_blank"
+              class="d-flex justify-content-center bg-secondary">
+              Check
+            </a>
+          </div>
+          <img src="/assets/images/backgrounds/sidebar-buynow-bg.png" alt="imgae" class="side-img m-t--48 m-r--8" />
+        </div> -->
+      </div>
+    </div>
+  </mat-sidenav>
+  
+  <!-- ============================================================== -->
+  <!-- Main Content -->
+  <!-- ============================================================== -->
+  <mat-sidenav-content class="contentWrapper" #content>
+    <!-- ============================================================== -->
+    <!-- VerticalHeader -->
+    <!-- ============================================================== -->
+    
+    <app-header [showToggle]="!isOver" (toggleMobileNav)="sidenav.toggle()"></app-header>
+    
+    <main>
+      <!-- ============================================================== -->
+      <!-- Outlet -->
+      <!-- ============================================================== -->
+      <router-outlet></router-outlet>
+    </main>
+
+    <div class="p-16 p-t-8 p-b-30 text-center">
+      <footer class="bg-light text-white py-5">
+        <div class="container">
+            <div class="row">
+                <!-- Cột thông tin về cửa hàng -->
+                <div class="col-md-4 mb-4">
+                    <h5 class="text-dark text-uppercase">Cửa Hàng</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="#" class="text-dark text-decoration-none">Giới Thiệu</a></li>
+                        <li><a href="#" class="text-dark text-decoration-none">Chính Sách Bảo Mật</a></li>
+                        <li><a href="#" class="text-dark text-decoration-none">Chính Sách Giao Hàng</a></li>
+                        <li><a href="#" class="text-dark text-decoration-none">Điều Khoản Dịch Vụ</a></li>
+                    </ul>
+                </div>
+    
+                <!-- Cột liên kết tới các sản phẩm -->
+                <div class="col-md-4 mb-4">
+                    <h5 class=" text-dark text-uppercase">Sản Phẩm Nổi Bật</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="#" class="text-dark text-decoration-none">Áo Thể Thao</a></li>
+                        <li><a href="#" class="text-dark text-decoration-none">Giày Chạy Bộ</a></li>
+                        <li><a href="#" class="text-dark text-decoration-none">Phụ Kiện Thể Thao</a></li>
+                        <li><a href="#" class="text-dark text-decoration-none">Trang Phục Fitness</a></li>
+                    </ul>
+                </div>
+    
+                <!-- Cột liên hệ -->
+                <div class="col-md-4 mb-4">
+                    <h5 class="text-dark text-uppercase">Liên Hệ</h5>
+                    <ul class="list-unstyled">
+                        <li><i class="text-dark fas fa-phone-alt"></i> <p style="color:black">Hotline: 1800-1234</p></li>
+                        <li><i class="text-dark fas fa-envelope"></i> <p style="color:black">Email: support shop</p> </li>
+                        <li><i class="text-dark fas fa-map-marker-alt"></i> <p style="color:black">Địa chỉ: 123 Đường ABC, TP HCM</p></li>
+                    </ul>
+                </div>
+            </div>
+    
+            <!-- Dòng bản quyền -->
+            <div class="text-center mt-4">
+                <p>&copy; 2025 Shop.com. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+    
+    </div>
+    
+  </mat-sidenav-content>
+
+</mat-sidenav-container>
