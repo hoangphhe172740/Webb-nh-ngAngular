@@ -11,6 +11,14 @@
       "RelativeMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|E:\\dao load\\Webb-nh-ngAngular\\BE\\helper\\unity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|solutionrelative:helper\\unity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|E:\\dao load\\Webb-nh-ngAngular\\BE\\helper\\configurationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|solutionrelative:helper\\configurationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|E:\\dao load\\Webb-nh-ngAngular\\BE\\models\\itemdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|solutionrelative:models\\itemdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,16 +55,8 @@
       "RelativeMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|E:\\dao load\\Webb-nh-ngAngular\\BE\\helper\\unity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|solutionrelative:helper\\unity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|E:\\dao load\\Webb-nh-ngAngular\\BE\\helper\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|solutionrelative:helper\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|E:\\dao load\\Webb-nh-ngAngular\\BE\\helper\\configurationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|solutionrelative:helper\\configurationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5EC5C194-94D9-41EF-9EB5-51F869B58169}|ShopApi.csproj|E:\\dao load\\Webb-nh-ngAngular\\BE\\services\\impl\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -118,55 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BaseController.cs",
-              "DocumentMoniker": "E:\\dao load\\Webb-nh-ngAngular\\BE\\Controllers\\BaseController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BaseController.cs",
-              "ToolTip": "E:\\dao load\\Webb-nh-ngAngular\\BE\\Controllers\\BaseController.cs",
-              "RelativeToolTip": "Controllers\\BaseController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T03:26:48.361Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UserLogin.cs",
-              "DocumentMoniker": "E:\\dao load\\Webb-nh-ngAngular\\BE\\Helper\\UserLogin.cs",
-              "RelativeDocumentMoniker": "Helper\\UserLogin.cs",
-              "ToolTip": "E:\\dao load\\Webb-nh-ngAngular\\BE\\Helper\\UserLogin.cs",
-              "RelativeToolTip": "Helper\\UserLogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T02:20:13.305Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Unity.cs",
-              "DocumentMoniker": "E:\\dao load\\Webb-nh-ngAngular\\BE\\Helper\\Unity.cs",
-              "RelativeDocumentMoniker": "Helper\\Unity.cs",
-              "ToolTip": "E:\\dao load\\Webb-nh-ngAngular\\BE\\Helper\\Unity.cs",
-              "RelativeToolTip": "Helper\\Unity.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwEQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T14:39:17.079Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "E:\\dao load\\Webb-nh-ngAngular\\BE\\Models\\Cart.cs",
-              "RelativeDocumentMoniker": "Models\\Cart.cs",
-              "ToolTip": "E:\\dao load\\Webb-nh-ngAngular\\BE\\Models\\Cart.cs",
-              "RelativeToolTip": "Models\\Cart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T04:03:15.387Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Item.cs",
               "DocumentMoniker": "E:\\dao load\\Webb-nh-ngAngular\\BE\\Models\\Item.cs",
               "RelativeDocumentMoniker": "Models\\Item.cs",
@@ -178,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Category.cs",
               "DocumentMoniker": "E:\\dao load\\Webb-nh-ngAngular\\BE\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
@@ -190,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Order.cs",
               "DocumentMoniker": "E:\\dao load\\Webb-nh-ngAngular\\BE\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Models\\Order.cs",
@@ -208,14 +160,14 @@
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "E:\\dao load\\Webb-nh-ngAngular\\BE\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-13T06:13:01.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "AllController.cs",
               "DocumentMoniker": "E:\\dao load\\Webb-nh-ngAngular\\BE\\Controllers\\AllController.cs",
               "RelativeDocumentMoniker": "Controllers\\AllController.cs",
@@ -233,13 +185,73 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\dao load\\Webb-nh-ngAngular\\BE\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAAAF4AAAAgAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAF4AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T06:12:54.476Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "E:\\dao load\\Webb-nh-ngAngular\\BE\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BaseController.cs",
+              "ToolTip": "E:\\dao load\\Webb-nh-ngAngular\\BE\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:26:48.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfigurationHelper.cs",
+              "DocumentMoniker": "E:\\dao load\\Webb-nh-ngAngular\\BE\\Helper\\ConfigurationHelper.cs",
+              "RelativeDocumentMoniker": "Helper\\ConfigurationHelper.cs",
+              "ToolTip": "E:\\dao load\\Webb-nh-ngAngular\\BE\\Helper\\ConfigurationHelper.cs",
+              "RelativeToolTip": "Helper\\ConfigurationHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:27:16.605Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Unity.cs",
+              "DocumentMoniker": "E:\\dao load\\Webb-nh-ngAngular\\BE\\Helper\\Unity.cs",
+              "RelativeDocumentMoniker": "Helper\\Unity.cs",
+              "ToolTip": "E:\\dao load\\Webb-nh-ngAngular\\BE\\Helper\\Unity.cs",
+              "RelativeToolTip": "Helper\\Unity.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:39:17.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "E:\\dao load\\Webb-nh-ngAngular\\BE\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Cart.cs",
+              "ToolTip": "E:\\dao load\\Webb-nh-ngAngular\\BE\\Models\\Cart.cs",
+              "RelativeToolTip": "Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T04:03:15.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "E:\\dao load\\Webb-nh-ngAngular\\BE\\Helper\\UserLogin.cs",
+              "RelativeDocumentMoniker": "Helper\\UserLogin.cs",
+              "ToolTip": "E:\\dao load\\Webb-nh-ngAngular\\BE\\Helper\\UserLogin.cs",
+              "RelativeToolTip": "Helper\\UserLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T02:20:13.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Itemdetail.cs",
               "DocumentMoniker": "E:\\dao load\\Webb-nh-ngAngular\\BE\\Models\\Itemdetail.cs",
               "RelativeDocumentMoniker": "Models\\Itemdetail.cs",
@@ -251,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Orderdetail.cs",
               "DocumentMoniker": "E:\\dao load\\Webb-nh-ngAngular\\BE\\Models\\Orderdetail.cs",
               "RelativeDocumentMoniker": "Models\\Orderdetail.cs",
@@ -263,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Cartitem.cs",
               "DocumentMoniker": "E:\\dao load\\Webb-nh-ngAngular\\BE\\Models\\Cartitem.cs",
               "RelativeDocumentMoniker": "Models\\Cartitem.cs",
@@ -272,18 +284,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T14:53:44.395Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ConfigurationHelper.cs",
-              "DocumentMoniker": "E:\\dao load\\Webb-nh-ngAngular\\BE\\Helper\\ConfigurationHelper.cs",
-              "RelativeDocumentMoniker": "Helper\\ConfigurationHelper.cs",
-              "ToolTip": "E:\\dao load\\Webb-nh-ngAngular\\BE\\Helper\\ConfigurationHelper.cs",
-              "RelativeToolTip": "Helper\\ConfigurationHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T03:27:16.605Z"
             },
             {
               "$type": "Document",
