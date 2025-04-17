@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jk2u5HMAwdF5IVX7OTopJSP/jpzK8EapzdlDCN8sIRZVwE8PnxJIrse73nYhndEz9h3JUqG/ymjy2yC0yR8d/w==",
+  "dgSpecHash": "+pgC7LxhBYBuszlpmjm1gMLQuRedp2cx4/C0VISNv0s2qBoNGQhjX5cPWvT2rmMa3bWC75Q4If1KfWPXKflzBA==",
   "success": true,
-  "projectFilePath": "E:\\dao load\\Webb-nh-ngAngular\\BE\\ShopApi.csproj",
+  "projectFilePath": "E:\\dao load\\Angular-Shop-main\\BE\\ShopApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.23\\microsoft.aspnetcore.authentication.jwtbearer.6.0.23.nupkg.sha512",

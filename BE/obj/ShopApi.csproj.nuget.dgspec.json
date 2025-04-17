@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\dao load\\Webb-nh-ngAngular\\BE\\ShopApi.csproj": {}
+    "E:\\dao load\\Angular-Shop-main\\BE\\ShopApi.csproj": {}
   },
   "projects": {
-    "E:\\dao load\\Webb-nh-ngAngular\\BE\\ShopApi.csproj": {
+    "E:\\dao load\\Angular-Shop-main\\BE\\ShopApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\dao load\\Webb-nh-ngAngular\\BE\\ShopApi.csproj",
+        "projectUniqueName": "E:\\dao load\\Angular-Shop-main\\BE\\ShopApi.csproj",
         "projectName": "ShopApi",
-        "projectPath": "E:\\dao load\\Webb-nh-ngAngular\\BE\\ShopApi.csproj",
+        "projectPath": "E:\\dao load\\Angular-Shop-main\\BE\\ShopApi.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\dao load\\Webb-nh-ngAngular\\BE\\obj\\",
+        "outputPath": "E:\\dao load\\Angular-Shop-main\\BE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
